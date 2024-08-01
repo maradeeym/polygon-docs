@@ -98,6 +98,7 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [Chainnodes](https://www.chainnodes.org/)
 - [Chainstack](https://chainstack.com/build-better-with-polygon/)
 - [DataHub (Figment)](https://datahub.figment.io)
+- [dRPC](https://drpc.org/chainlist/polygon)
 - [Dwellir](https://www.dwellir.com/networks/polygon)
 - [GetBlock](https://getblock.io/en/)
 - [Infura](https://infura.io)
@@ -117,5 +118,6 @@ Public RPCs may have rate limits or traffic restrictions. For dedicated free RPC
 - [4EVERLAND](https://docs.4everland.org/rpc-beta/polygon)
 - [SubQuery](https://subquery.network/rpc)
 - [Validation Cloud](https://app.validationcloud.io)
+- [dRPC](https://drpc.org/chainlist/polygon)
 
 For a complete list of public endpoints, visit [Alchemy's Chain Connect](https://www.alchemy.com/chain-connect/chain/polygon-pos) and [Chainlist](https://chainlist.org/?search=Polygon+Mainnet).
